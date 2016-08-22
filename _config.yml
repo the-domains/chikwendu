@@ -1,4 +1,3 @@
-layout_spectrum: 0.011213732417672873
 typography_spectrum: 0.07205852027982473
 color:
   brandStrength: 0.10067922831512988
@@ -11,4 +10,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.011213732417672873
+analytics:
+  google: >-
+    https://testing.thegrid.io/app/site/design?siteID=158737e6-e938-42ff-bd7c-5f997186e36b
 name: chikwendu
