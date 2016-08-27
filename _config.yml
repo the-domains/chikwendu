@@ -15,3 +15,7 @@ analytics:
   google: >-
     https://testing.thegrid.io/app/site/design?siteID=158737e6-e938-42ff-bd7c-5f997186e36b
 name: chikwendu
+navigation:
+  - name: Misadventures of learning with kids
+    url: 'https://learningwithkidsblog.wordpress.com/'
+    type: external
