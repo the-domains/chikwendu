@@ -19,3 +19,6 @@ navigation:
   - name: Misadventures of learning with kids
     url: 'https://learningwithkidsblog.wordpress.com/'
     type: external
+  - name: Take me with you
+    url: 'https://akukoiro.wordpress.com/'
+    type: external
