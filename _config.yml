@@ -1,16 +1,16 @@
-typography_spectrum: 0.07205852027982473
+layout_spectrum: 0.7526987795718014
+typography_spectrum: 0.9403122037183493
 color:
-  brandStrength: 0.10067922831512988
-  lightness: 0.23497411655262113
-  saturation: 0.538480804534629
-  rhythmicContrast: 0.6319908427540213
+  brandStrength: 0.9534109176602215
+  lightness: 0.05452860309742391
+  saturation: 0.2516622873954475
+  rhythmicContrast: 0.22753709205426276
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.011213732417672873
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
 analytics:
   google: >-
     https://testing.thegrid.io/app/site/design?siteID=158737e6-e938-42ff-bd7c-5f997186e36b
